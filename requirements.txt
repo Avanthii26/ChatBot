@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pyngrok
+langchain
+langchain-google-genai
+langgraph
+typing-extensions
+pydantic
